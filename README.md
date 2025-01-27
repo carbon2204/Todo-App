@@ -7,3 +7,5 @@ Simple CLI Todo-App
 * --help - show all functions
 * --list - show all notes
 * --title - edit note (index:"string")
+# How to download package 
+Use command: go get github.com/aquasecurity/table
